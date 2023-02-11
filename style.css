@@ -97,6 +97,7 @@
     border-radius: 20px;
     color: white;
     box-shadow: 0px 10px 10px #7f8ecb;
+    text-transform: uppercase;
 }
 
 .myButton:hover {
